@@ -16,7 +16,7 @@ function new_image() {
 }
 
 function playSound() {
-    function playSound() {
-        x.play();
-    }
+
+    x.play();
+
 }
